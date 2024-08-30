@@ -9,6 +9,8 @@ This project gives a visual presentation of your network traffic.
 # Capture and save Network Traffic.
 ![image](https://github.com/user-attachments/assets/67edbb04-3711-4c9b-a098-0e8150447bd0)
 ![image](https://github.com/user-attachments/assets/2fc87333-e609-47ff-9661-a0338990c692)
+![image](https://github.com/user-attachments/assets/476343db-6092-4d4c-a577-534f16c8f70b)
+
 
 
 
