@@ -1,7 +1,8 @@
 # WiresharkNetworkTracker
-This project gives a visual presentation of your network traffic.
+This project gives a visual presentation of your network traffic. Tools used are Wireshark, Python, and Google Earth.
 
 # Download and Install Wireshark
+[Wireshark](https://www.wireshark.org/)
 
 # Download GeoLiteCity database
 [GeoLite](https://github.com/mbcc2006/GeoLiteCity-data)
@@ -14,8 +15,13 @@ This project gives a visual presentation of your network traffic.
 
 
 
-# Create Python code
+# Create Python code. Enter your IP Address in the code. 
 [Python code](https://github.com/sfort04/WiresharkNetworkTracker/blob/main/python_tracker)
+
+[Find out your IP Address](https://www.whatsmyip.org/)
+
+![image](https://github.com/user-attachments/assets/db01096b-603c-4f42-81e2-f3424da73d11)
+
 
 # Make sure files are in root folder of python project
 ![image](https://github.com/user-attachments/assets/67596193-03fa-4fe1-8c97-c2005d004566)
