@@ -43,7 +43,7 @@ def retKML(dstip, srcip):
         return ''
 
 def main():
-    f = open('wire.pcap', 'rb')
+    f = open('wire.pcap', 'rb') 
     pcap = dpkt.pcap.Reader(f)
     kmlheader = '<?xml version="1.0" encoding="UTF-8"?> \n<kml xmlns="http://www.opengis.net/kml/2.2">\n<Document>\n'\
     '<Style id="transBluePoly">' \
