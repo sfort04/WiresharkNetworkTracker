@@ -18,3 +18,4 @@ This project gives a visual presentation of your network traffic.
 # Copy results from python project to Notepad++ to create KML file. Add .kml extenstion to file.
 
 # Import KML file to Google Earth
+![image](https://github.com/user-attachments/assets/e3fa8a49-1e76-4cb4-96db-73c0c48fb08e)
