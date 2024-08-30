@@ -19,3 +19,5 @@ This project gives a visual presentation of your network traffic.
 
 # Import KML file to Google Earth
 ![image](https://github.com/user-attachments/assets/e3fa8a49-1e76-4cb4-96db-73c0c48fb08e)
+
+![image](https://github.com/user-attachments/assets/35c4df9c-3c25-4965-8106-f435579cb20a)
